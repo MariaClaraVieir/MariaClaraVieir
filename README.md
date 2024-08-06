@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá, Sejam bem vindos ao meu perfil! 👋
 
-<!--
-**MariaClaraVieir/MariaClaraVieir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Meu nome é Maria
+- Estou cursando o Alura
+- Estou estudando lingugagem JavaScript
+- Essa conta será usada para compartilhar projetos criados por mim!
 
-Here are some ideas to get you started:
+- Entre em contato por:
+  00001143556847sp@al.educacao.sp.gov.br
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
